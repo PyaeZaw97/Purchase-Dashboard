@@ -18,3 +18,6 @@ Purchase dashboard using Reactjs with Ant Design
 -type "npm start" in terminal
 -Run http://localhost:3000/ in browser
 
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/1bff0666-92cc-4a72-a707-2bcb40a6f91a">
+
+
